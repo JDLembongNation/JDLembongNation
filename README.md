@@ -1,4 +1,10 @@
-### Hi there 👋
+[![MasterHead](https://wallpaperaccess.com/full/2873554.jpg)](https://github.com/JDLembongNation)
+
+## Welcome to my profile. It ain't much, but it's honest work.
+### Jack of All Trades. (Or at least, I try to be 😅)
+
+-- Current Project --
+Personal Website. Tried using VUE 3, but ngl, the react CSS frameworks look a lot nicer. Might just start using react on the fly. Cause why not. 
 
 [![JDLembongNation's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDLembongNation&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
