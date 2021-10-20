@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![JDLembongNation's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDLembongNation&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+[![JDLembongNation's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDLembongNation&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
